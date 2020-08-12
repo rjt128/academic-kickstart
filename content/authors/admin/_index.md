@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: BSc- Mathematical Physics
+    BSc- Mathematical Physics
     institution: University of Saskatchewan
 
 # Social/Academic Networking
