@@ -15,7 +15,7 @@ role: Graduate Student
 # Organizations/Affiliations
 organizations:
 - name: University of Alberta
-  url: "https://www.ualberta.ca/index.html"
+  url: https://www.ualberta.ca/index.html
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -38,7 +38,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 - icon: github
   icon_pack: fab
-  link: "https://github.com/rjt128"
+  link: https://github.com/rjt128
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
