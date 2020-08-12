@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-    course: BSc- Mathematical Physics
+    - course: BSc- Mathematical Physics
     institution: University of Saskatchewan
 
 # Social/Academic Networking
@@ -54,6 +54,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Ryan is a Master's student at the University of Alberta, working on an analysis of scaling limits
+ - Ryan is a Master's student at the University of Alberta, working on an analysis of scaling limits
 of the kinetic chemotaxis equation. He is interested in modelling with partial differential equations.
 He has a background in Physics, Mathematical Biology, and Numerical Methods. 
