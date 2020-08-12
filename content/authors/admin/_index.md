@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-    BSc- Mathematical Physics
+    course: BSc- Mathematical Physics
     institution: University of Saskatchewan
 
 # Social/Academic Networking
@@ -38,7 +38,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 - icon: github
   icon_pack: fab
-  link: https://github.com/rjt128
+  link: ""
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
