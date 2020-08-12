@@ -15,7 +15,7 @@ role: Graduate Student
 # Organizations/Affiliations
 organizations:
 - name: University of Alberta
-  url: https://www.ualberta.ca/index.html
+  url: ""
 
 
 # Short bio (displayed in user profile at end of posts)
